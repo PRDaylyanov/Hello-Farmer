@@ -13,6 +13,7 @@ public class InteractableObject : MonoBehaviour
     
     void Update()
     {
+        // Check to see if the mouse is clicked and on the item directly
         if (Input.GetKeyDown(KeyCode.Mouse0) && playerInRange && SelectionManager.Instance.onTarget)
         {
             if (!InventorySystem.Instance.CheckIfFull())

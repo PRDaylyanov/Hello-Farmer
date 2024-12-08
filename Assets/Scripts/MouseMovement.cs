@@ -14,6 +14,7 @@ public class MouseMovement : MonoBehaviour
 
     void Update()
     {
+        // Only move camera if inventory
         if (!InventorySystem.Instance.isOpen)
         {
             float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;

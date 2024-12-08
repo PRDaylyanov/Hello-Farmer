@@ -34,10 +34,12 @@ public class SelectionManager : MonoBehaviour
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
 
+        // Only detect objects from up close
         if (Physics.Raycast(ray, out hit, 7))
         {
             var selectionTransform = hit.transform;
 
+            // get the instance of the object we are looking at
             InteractableObject currentInteractableObject = selectionTransform.GetComponent<InteractableObject>();
 
             if (currentInteractableObject && currentInteractableObject.playerInRange)

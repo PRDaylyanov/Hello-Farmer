@@ -1,121 +1,104 @@
 using UnityEngine;
+using UnityEngine.AI;
 
 public class GeneralAnimalAI : MonoBehaviour
 {
-    [Header("Global Farm Settings")]
-    public Vector3 globalFarmAreaCenter; // Center of the global farm area
-    public Vector3 globalFarmAreaSize;   // Size of the global farm area
+    public NavMeshAgent agent;
+    public Transform player;
+    public float chaseRange = 10f;
+    public float roamRange = 20f;
+    public float idleTime = 3f;
 
-    [Header("Roaming Settings")]
-    public float roamAreaChangeDelay = 10f; // Time before the roam area changes
-    public float roamDelay = 3f;           // Time between movement decisions
-    public float idleTimeMin = 2f;         // Minimum idle time
-    public float idleTimeMax = 5f;         // Maximum idle time
-    public float moveSpeed = 2f;
-    public float rotationSpeed = 5f;       // Speed of rotation towards the movement direction
+    private Vector3 roamCenter;
+    private float idleTimer;
+    private bool isIdling;
+    private enum State { Roaming, Idling, Chasing }
+    private State currentState;
 
-    private Vector3 roamAreaCenter; // Current roaming area's center
-    private Vector3 roamAreaSize;   // Current roaming area's size
-    private Vector3 roamTarget;     // Current target position
-
-    private bool isRoaming = false;
-    private bool isIdle = false;
-
-    private void Start()
+    void Start()
     {
-        ChangeRoamArea(); // Set initial roaming area
-        InvokeRepeating(nameof(ChangeRoamArea), roamAreaChangeDelay, roamAreaChangeDelay);
-        SetIdleState(); // Start in idle state
-    }
-
-    private void Update()
-    {
-        if (isRoaming)
-        {
-            MoveToTarget();
-        }
-    }
-
-    private void ChangeRoamArea()
-    {
-        if (isIdle || isRoaming) return; // Only change area if the animal is stationary
-
-        roamAreaCenter = new Vector3(
-            Random.Range(globalFarmAreaCenter.x - globalFarmAreaSize.x / 2, globalFarmAreaCenter.x + globalFarmAreaSize.x / 2),
-            globalFarmAreaCenter.y,
-            Random.Range(globalFarmAreaCenter.z - globalFarmAreaSize.z / 2, globalFarmAreaCenter.z + globalFarmAreaSize.z / 2)
-        );
-
-        roamAreaSize = new Vector3(
-            Random.Range(5f, 20f), // Randomize the roaming area's width
-            0f,
-            Random.Range(5f, 20f)  // Randomize the roaming area's depth
-        );
-
-        Debug.Log($"{gameObject.name} changed roaming area to Center: {roamAreaCenter}, Size: {roamAreaSize}");
-    }
-
-    private void SetRandomRoamTarget()
-    {
-        if (isIdle) return;
-
-        roamTarget = new Vector3(
-            Random.Range(roamAreaCenter.x - roamAreaSize.x / 2, roamAreaCenter.x + roamAreaSize.x / 2),
-            transform.position.y,
-            Random.Range(roamAreaCenter.z - roamAreaSize.z / 2, roamAreaCenter.z + roamAreaSize.z / 2)
-        );
-
-        isRoaming = true;
-    }
-
-    private void MoveToTarget()
-    {
-        Vector3 direction = (roamTarget - transform.position).normalized;
-
-        // Rotate smoothly toward the target
-        if (direction.magnitude > 0.1f)
-        {
-            Quaternion lookRotation = Quaternion.LookRotation(direction);
-            transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, rotationSpeed * Time.deltaTime);
-        }
-
-        // Move towards the target
-        transform.position = Vector3.MoveTowards(transform.position, roamTarget, moveSpeed * Time.deltaTime);
-
-        // Stop roaming if the target is reached
-        if (Vector3.Distance(transform.position, roamTarget) < 0.1f)
-        {
-            isRoaming = false;
-            SetIdleState();
-        }
-    }
-
-    private void SetIdleState()
-    {
-        isIdle = true;
-        float idleDuration = Random.Range(idleTimeMin, idleTimeMax);
-        Debug.Log($"{gameObject.name} is idling for {idleDuration} seconds.");
-        Invoke(nameof(EndIdleState), idleDuration);
-    }
-
-    private void EndIdleState()
-    {
-        isIdle = false;
+        // Initialize
+        roamCenter = transform.position;
         SetRandomRoamTarget();
+        currentState = State.Roaming;
     }
 
-    private void OnDrawGizmos()
+    void Update()
     {
-        // Draw the global farm area (developer view only)
-        Gizmos.color = Color.blue;
-        Gizmos.DrawWireCube(globalFarmAreaCenter, globalFarmAreaSize);
+        switch (currentState)
+        {
+            case State.Roaming:
+                HandleRoaming();
+                break;
 
-        // Draw the current roaming area
-        Gizmos.color = Color.green;
-        Gizmos.DrawWireCube(roamAreaCenter, roamAreaSize);
+            case State.Idling:
+                HandleIdling();
+                break;
 
-        // Draw the current target
-        Gizmos.color = Color.red;
-        Gizmos.DrawSphere(roamTarget, 0.3f);
+            case State.Chasing:
+                HandleChasing();
+                break;
+        }
+
+        // Check if the player is within chase range
+        if (Vector3.Distance(transform.position, player.position) <= chaseRange)
+        {
+            currentState = State.Chasing;
+        }
+        else if (currentState == State.Chasing)
+        {
+            currentState = State.Roaming;
+            SetRandomRoamTarget();
+        }
+    }
+
+    void HandleRoaming()
+    {
+        if (!agent.hasPath || agent.remainingDistance < 1f)
+        {
+            StartIdling();
+        }
+    }
+
+    void HandleIdling()
+    {
+        idleTimer += Time.deltaTime;
+
+        if (idleTimer >= idleTime)
+        {
+            idleTimer = 0f;
+            isIdling = false;
+            currentState = State.Roaming;
+            SetRandomRoamTarget();
+        }
+    }
+
+    void HandleChasing()
+    {
+        agent.SetDestination(player.position);
+    }
+
+    void StartIdling()
+    {
+        isIdling = true;
+        idleTimer = 0f;
+        currentState = State.Idling;
+        agent.ResetPath();
+    }
+
+    void SetRandomRoamTarget()
+    {
+        Vector3 randomDirection = Random.insideUnitSphere * roamRange;
+        randomDirection += roamCenter;
+
+        if (NavMesh.SamplePosition(randomDirection, out NavMeshHit hit, roamRange, NavMesh.AllAreas))
+        {
+            agent.SetDestination(hit.position);
+        }
+    }
+
+    public void SetNewRoamCenter(Vector3 newCenter)
+    {
+        roamCenter = newCenter;
     }
 }

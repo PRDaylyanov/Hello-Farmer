@@ -66,7 +66,8 @@ public class InventorySystem : MonoBehaviour
             isOpen = false;
         }
     }
-
+    
+    //Add item to inventory
     public void AddToInventory(string itemName)
     {
         addedSlot = FindEmptySlot();
@@ -78,6 +79,7 @@ public class InventorySystem : MonoBehaviour
 
     }
 
+    // Finds the first empty slot
     private GameObject FindEmptySlot()
     {
         foreach (GameObject slot in slotedItems)
@@ -91,6 +93,7 @@ public class InventorySystem : MonoBehaviour
         return new GameObject();
     }
 
+    // Check to see if inventory is full
     public bool CheckIfFull()
     {
         int counter = 0;

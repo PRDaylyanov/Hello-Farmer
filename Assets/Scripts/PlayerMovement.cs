@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    // Movement settings
     public float walkSpeed = 5f;
     public float sprintSpeed = 8f;
     public float crouchSpeed = 2.5f;
@@ -10,7 +9,6 @@ public class PlayerMovement : MonoBehaviour
     public float gravity = -9.81f;
     public float crouchHeight = 1f;
 
-    // Private variables
     private CharacterController controller;
     private Vector3 velocity;
     private bool isGrounded;
