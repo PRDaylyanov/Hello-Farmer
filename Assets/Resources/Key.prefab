@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -2349221928138347230}
   - component: {fileID: -7494628463222246491}
   m_Layer: 5
-  m_Name: Boc
+  m_Name: Key
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
