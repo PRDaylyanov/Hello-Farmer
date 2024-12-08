@@ -1,0 +1,156 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello Farmer - Official Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: linear-gradient(90deg, #76c7c0, #5c9649);
+            color: white;
+            padding: 30px 0;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+            header h1 {
+                font-size: 3rem;
+                margin: 0;
+            }
+
+            header p {
+                font-size: 1.2rem;
+                margin: 10px 0 20px;
+            }
+
+        .download-button {
+            background-color: #ffffff;
+            color: #5c9649;
+            padding: 12px 24px;
+            font-size: 1rem;
+            text-decoration: none;
+            border-radius: 25px;
+            border: 2px solid #ffffff;
+            transition: all 0.3s ease;
+        }
+
+            .download-button:hover {
+                background-color: #5c9649;
+                color: #ffffff;
+                border-color: #5c9649;
+            }
+
+        main {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+            section h2 {
+                color: #5c9649;
+                margin-bottom: 15px;
+            }
+
+            section p {
+                line-height: 1.6;
+                color: #333;
+            }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+
+            ul li {
+                margin-bottom: 8px;
+            }
+
+        .image-placeholder {
+            width: 100%;
+            height: 250px;
+            background-color: #d8d8d8;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #555;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 1.2rem;
+        }
+
+        /* Add smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hello Farmer</h1>
+        <p>Welcome to the official website for "Hello Farmer" - a farm-based puzzle adventure!</p>
+        <a href="https://github.com/PRDaylyanov/Hello-Farmer" class="download-button">Download the Game</a>
+    </header>
+    <main>
+        <section>
+            <h2>About the Game</h2>
+            <div class="image-placeholder">[Image Placeholder]</div>
+            <p>"Hello Farmer" is an immersive farm-based puzzle adventure inspired by "Hello Neighbor." Players will explore a mysterious farm filled with clever puzzles, quirky animals, and hidden secrets. Use your wits and creativity to uncover the farmer's mysteries!</p>
+        </section>
+        <section>
+            <h2>Features</h2>
+            <ul>
+                <li>Unique farm puzzles to solve</li>
+                <li>Interact with a variety of quirky animals</li>
+                <li>Explore a sprawling farm with hidden secrets</li>
+                <li>More features coming soon!</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Development Updates</h2>
+            <div class="image-placeholder">[Image Placeholder]</div>
+            <p>"Hello Farmer" is currently in early development. Stay tuned for updates, sneak peeks, and new features as we continue building this exciting game!</p>
+        </section>
+    </main>
+
+    <a href="https://github.com/YourGitHubUsername/HelloFarmer"
+       class="download-button"
+       id="github-button"
+       target="_blank"
+       rel="noopener noreferrer">View on GitHub</a>
+    <div id="loading-indicator" style="display: none; color: #5c9649; margin-top: 10px;">Opening GitHub...</div>
+
+    <script>
+        document.getElementById('github-button').addEventListener('click', function (event) {
+            event.preventDefault();
+            const loadingIndicator = document.getElementById('loading-indicator');
+            loadingIndicator.style.display = 'block'; // Show loading message
+            setTimeout(() => {
+                window.open('https://github.com/PRDaylyanov/Hello-Farmer', '_blank');
+                loadingIndicator.style.display = 'none'; // Hide after opening
+            }, 1000); // Delay for effect
+        });
+    </script>
+
+</body>
+</html>

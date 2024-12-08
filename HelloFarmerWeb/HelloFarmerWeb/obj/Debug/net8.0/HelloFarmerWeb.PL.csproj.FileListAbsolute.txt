@@ -1,0 +1,247 @@
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.csproj.AssemblyReference.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.AssemblyInfoInputs.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.AssemblyInfo.cs
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.csproj.CoreCompileInputs.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.RazorAssemblyInfo.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.RazorAssemblyInfo.cs
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\appsettings.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.staticwebassets.runtime.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.exe
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.deps.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.runtimeconfig.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.pdb
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Azure.Core.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Azure.Identity.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.ClientModel.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.BLL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.BLL.pdb
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.HelloFarmerWeb.PL.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloFarmerWeb.PL.props
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloFarmerWeb.PL.props
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloFarmerWeb.PL.props
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\scopedcss\bundle\HelloFarmerWeb.PL.styles.css
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\scopedcss\projectbundle\HelloFarmerWeb.PL.bundle.scp.css
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFar.1DFC8E1B.Up2Date
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\refint\HelloFarmerWeb.PL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.pdb
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.genruntimeconfig.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\ref\HelloFarmerWeb.PL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\appsettings.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.staticwebassets.runtime.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.exe
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.deps.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.runtimeconfig.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.pdb
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Azure.Core.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Azure.Identity.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.ClientModel.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.BLL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.BLL.pdb
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.csproj.AssemblyReference.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.AssemblyInfoInputs.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.AssemblyInfo.cs
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.csproj.CoreCompileInputs.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.RazorAssemblyInfo.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.RazorAssemblyInfo.cs
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.HelloFarmerWeb.PL.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloFarmerWeb.PL.props
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloFarmerWeb.PL.props
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloFarmerWeb.PL.props
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\scopedcss\bundle\HelloFarmerWeb.PL.styles.css
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\scopedcss\projectbundle\HelloFarmerWeb.PL.bundle.scp.css
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFar.1DFC8E1B.Up2Date
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\refint\HelloFarmerWeb.PL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.pdb
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.genruntimeconfig.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\ref\HelloFarmerWeb.PL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\appsettings.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.staticwebassets.runtime.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.exe
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.deps.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.runtimeconfig.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.PL.pdb
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Azure.Core.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Azure.Identity.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.ClientModel.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.BLL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.BLL.pdb
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\bin\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.csproj.AssemblyReference.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.AssemblyInfoInputs.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.AssemblyInfo.cs
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.csproj.CoreCompileInputs.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.RazorAssemblyInfo.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.RazorAssemblyInfo.cs
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.sourcelink.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.HelloFarmerWeb.PL.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloFarmerWeb.PL.props
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloFarmerWeb.PL.props
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloFarmerWeb.PL.props
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\scopedcss\bundle\HelloFarmerWeb.PL.styles.css
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\scopedcss\projectbundle\HelloFarmerWeb.PL.bundle.scp.css
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFar.1DFC8E1B.Up2Date
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\refint\HelloFarmerWeb.PL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.pdb
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\HelloFarmerWeb.PL.genruntimeconfig.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb\obj\Debug\net8.0\ref\HelloFarmerWeb.PL.dll

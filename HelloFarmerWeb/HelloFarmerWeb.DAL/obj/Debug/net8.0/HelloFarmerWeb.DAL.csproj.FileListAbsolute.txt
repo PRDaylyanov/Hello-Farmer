@@ -1,0 +1,37 @@
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\bin\Debug\net8.0\HelloFarmerWeb.DAL.deps.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\bin\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\bin\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.csproj.AssemblyReference.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.AssemblyInfoInputs.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.AssemblyInfo.cs
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\refint\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\ref\HelloFarmerWeb.DAL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\bin\Debug\net8.0\HelloFarmerWeb.DAL.deps.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\bin\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\bin\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.csproj.AssemblyReference.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.AssemblyInfoInputs.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.AssemblyInfo.cs
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\refint\HelloFarmerWeb.DAL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\ref\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\bin\Debug\net8.0\HelloFarmerWeb.DAL.deps.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\bin\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\bin\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.csproj.AssemblyReference.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.AssemblyInfoInputs.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.AssemblyInfo.cs
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.sourcelink.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\refint\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\obj\Debug\net8.0\ref\HelloFarmerWeb.DAL.dll

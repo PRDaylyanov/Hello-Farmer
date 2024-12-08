@@ -1,0 +1,46 @@
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.BLL.deps.json
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.BLL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.BLL.pdb
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.csproj.AssemblyReference.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.AssemblyInfoInputs.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.AssemblyInfo.cs
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.csproj.CoreCompileInputs.cache
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFar.EC786E3A.Up2Date
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\refint\HelloFarmerWeb.BLL.dll
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.pdb
+E:\Projects\Hello Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\ref\HelloFarmerWeb.BLL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.BLL.deps.json
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.BLL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.BLL.pdb
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.csproj.AssemblyReference.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.AssemblyInfoInputs.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.AssemblyInfo.cs
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.csproj.CoreCompileInputs.cache
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFar.EC786E3A.Up2Date
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\refint\HelloFarmerWeb.BLL.dll
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.pdb
+E:\Projects\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\ref\HelloFarmerWeb.BLL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.BLL.deps.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.BLL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.BLL.pdb
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.DAL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\bin\Debug\net8.0\HelloFarmerWeb.DAL.pdb
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.csproj.AssemblyReference.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.AssemblyInfoInputs.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.AssemblyInfo.cs
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.csproj.CoreCompileInputs.cache
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.sourcelink.json
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFar.EC786E3A.Up2Date
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\refint\HelloFarmerWeb.BLL.dll
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\HelloFarmerWeb.BLL.pdb
+E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.BLL\obj\Debug\net8.0\ref\HelloFarmerWeb.BLL.dll
