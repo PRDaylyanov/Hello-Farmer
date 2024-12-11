@@ -1474,6 +1474,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8120348048025582925, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.74
+      objectReference: {fileID: 0}
     - target: {fileID: -7254898340543400151, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.2
@@ -1481,6 +1485,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
       propertyPath: m_Name
       value: BigBarn
+      objectReference: {fileID: 0}
+    - target: {fileID: 8636150590090973646, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1495,6 +1503,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -8487149900802890690, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1990157377}
+    - targetCorrespondingSourceObject: {fileID: -8487149900802890690, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1990157381}
     - targetCorrespondingSourceObject: {fileID: -2678666594487506757, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2085264291}
@@ -4127,6 +4138,20 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.01840705, y: 0.002131294, z: 0.021464659}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1990157381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990157375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e76d4c0dda3e1b4ba1e7a8e937fc49b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  openPosition: {x: 2, y: 1.32, z: 3.83}
+  requiredItem: key
 --- !u!1 &1992371889 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1470539674184678226, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
@@ -4304,7 +4329,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1596624898433282032, guid: 2aa1f583bd7a05247a9a4b156bdca189, type: 3}
       propertyPath: m_Name
-      value: rust_key
+      value: key
       objectReference: {fileID: 0}
     - target: {fileID: 2338212881335459299, guid: 2aa1f583bd7a05247a9a4b156bdca189, type: 3}
       propertyPath: m_LocalPosition.x

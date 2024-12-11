@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|d:\\programing\\school\\hello farmer\\hellofarmergame\\assets\\scripts\\farmerai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|d:\\programing\\school\\hello farmer\\hellofarmergame\\assets\\scripts\\doorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|d:\\programing\\school\\hello farmer\\hellofarmergame\\assets\\scripts\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|d:\\programing\\school\\hello farmer\\hellofarmergame\\assets\\scripts\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\assets\\scripts\\farmerai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farmerai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DoorScript.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\DoorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorScript.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\DoorScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorScript.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:51:55.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractableObject.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractableObject.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:04:54.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventorySystem.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\InventorySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\InventorySystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySystem.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:41:44.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FarmerAI.cs",
               "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\FarmerAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FarmerAI.cs",
               "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\FarmerAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\FarmerAI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAADgv2wAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T21:34:37.521Z",
               "EditorCaption": ""
