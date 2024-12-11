@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloFarmerWeb.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcc67a375ff738683546030e59789326bd51ddc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloFarmerWeb.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloFarmerWeb.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

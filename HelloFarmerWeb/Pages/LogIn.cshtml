@@ -1,0 +1,78 @@
+﻿@page
+@model HelloFarmerWeb.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="text-center">
+    <h1>Login</h1>
+</div>
+
+<form method="post" class="form-login">
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="Email" class="form-control" placeholder="Enter your email" required>
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="Password" class="form-control" placeholder="Enter your password" required>
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>
+
+@if (Model.Message != null)
+{
+    <div class="alert alert-danger">
+        @Model.Message
+    </div>
+}
+
+<style>
+    .form-login {
+        max-width: 400px;
+        margin: auto;
+        padding: 1em;
+        border: 1px solid #ccc;
+        border-radius: 1em;
+    }
+
+    .form-group {
+        margin-bottom: 1em;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 0.5em;
+        margin-top: 0.5em;
+    }
+
+    .btn-primary {
+        display: block;
+        width: 100%;
+        padding: 0.5em;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 0.25em;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .text-danger {
+        color: red;
+    }
+
+    .alert-danger {
+        margin-top: 1em;
+    }
+</style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

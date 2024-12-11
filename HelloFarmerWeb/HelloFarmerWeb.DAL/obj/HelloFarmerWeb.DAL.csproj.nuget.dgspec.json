@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Hello Farmer\\Hello-Farmer\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\HelloFarmerWeb.DAL.csproj": {}
+    "E:\\Projects\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\HelloFarmerWeb.DAL.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Hello Farmer\\Hello-Farmer\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\HelloFarmerWeb.DAL.csproj": {
+    "E:\\Projects\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\HelloFarmerWeb.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Hello Farmer\\Hello-Farmer\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\HelloFarmerWeb.DAL.csproj",
+        "projectUniqueName": "E:\\Projects\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\HelloFarmerWeb.DAL.csproj",
         "projectName": "HelloFarmerWeb.DAL",
-        "projectPath": "E:\\Projects\\Hello Farmer\\Hello-Farmer\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\HelloFarmerWeb.DAL.csproj",
+        "projectPath": "E:\\Projects\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\HelloFarmerWeb.DAL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Hello Farmer\\Hello-Farmer\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\obj\\",
+        "outputPath": "E:\\Projects\\HelloFarmerWeb\\HelloFarmerWeb.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
