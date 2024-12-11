@@ -14,7 +14,7 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 10
-  m_Fog: 0
+  m_Fog: 1
   m_FogColor: {r: 0.16037738, g: 0.13843897, b: 0.13843897, a: 1}
   m_FogMode: 3
   m_FogDensity: 0.1
@@ -1506,6 +1506,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -8487149900802890690, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1990157381}
+    - targetCorrespondingSourceObject: {fileID: -8487149900802890690, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1990157382}
     - targetCorrespondingSourceObject: {fileID: -2678666594487506757, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2085264291}
@@ -4151,7 +4154,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   openPosition: {x: 2, y: 1.32, z: 3.83}
-  requiredItem: key
+--- !u!65 &1990157382
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990157375}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.05, y: 0.03, z: 0.021464659}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1992371889 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1470539674184678226, guid: 1121385a90def4a4aa521bfdcb56cb36, type: 3}
@@ -4329,7 +4352,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1596624898433282032, guid: 2aa1f583bd7a05247a9a4b156bdca189, type: 3}
       propertyPath: m_Name
-      value: key
+      value: Key
       objectReference: {fileID: 0}
     - target: {fileID: 2338212881335459299, guid: 2aa1f583bd7a05247a9a4b156bdca189, type: 3}
       propertyPath: m_LocalPosition.x
