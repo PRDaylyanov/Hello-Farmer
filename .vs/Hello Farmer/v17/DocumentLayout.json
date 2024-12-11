@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\SCHOOL\\Hello Farmer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\GeneralAnimalAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GeneralAnimalAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|d:\\programing\\school\\hello farmer\\assets\\scripts\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|D:\\Programing\\SCHOOL\\Hello Farmer\\assets\\scripts\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|D:\\Programing\\SCHOOL\\Hello Farmer\\assets\\scripts\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|D:\\Programing\\SCHOOL\\Hello Farmer\\assets\\scripts\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|D:\\Programing\\SCHOOL\\Hello Farmer\\assets\\scripts\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|D:\\Programing\\SCHOOL\\Hello Farmer\\assets\\scripts\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DDBCD7-A0C4-7488-6C27-DFB4E585C7FE}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MouseMovement.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\MouseMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseMovement.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\MouseMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseMovement.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:31:01.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventorySystem.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\InventorySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\InventorySystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySystem.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowEoAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:58:28.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractableObject.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:38:43.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemSlot.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:57:26.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DragDrop.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\DragDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragDrop.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\DragDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragDrop.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:56:47.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:56:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectionManager.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\SelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectionManager.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\SelectionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectionManager.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:38:47.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneralAnimalAI.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\GeneralAnimalAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GeneralAnimalAI.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\Assets\\Scripts\\GeneralAnimalAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GeneralAnimalAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:07:58.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
