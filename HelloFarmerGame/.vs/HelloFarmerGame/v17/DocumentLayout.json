@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|d:\\programing\\school\\hello farmer\\hellofarmergame\\assets\\scripts\\farmerai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FB5102-6BF5-DCB3-AEAC-903E9C40DB91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farmerai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FarmerAI.cs",
+              "DocumentMoniker": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\FarmerAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FarmerAI.cs",
+              "ToolTip": "D:\\Programing\\SCHOOL\\Hello Farmer\\HelloFarmerGame\\Assets\\Scripts\\FarmerAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FarmerAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:34:37.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
