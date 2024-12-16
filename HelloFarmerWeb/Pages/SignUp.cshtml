@@ -1,0 +1,83 @@
+﻿@page
+@model HelloFarmerWeb.Pages.SignUpModel
+@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<div class="text-center">
+    <h1>Sign Up</h1>
+</div>
+
+<form method="post" class="form-signup">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="NewAccount.Name" class="form-control" placeholder="Enter your name" required>
+        <span asp-validation-for="NewAccount.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="NewAccount.Email" class="form-control" placeholder="Enter your email" required>
+        <span asp-validation-for="NewAccount.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="NewAccount.Password" class="form-control" placeholder="Enter your password" required>
+        <span asp-validation-for="NewAccount.Password" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Sign Up</button>
+</form>
+
+@if (Model.Message != null)
+{
+    <div class="alert alert-danger">
+        @Model.Message
+    </div>
+}
+
+<style>
+    .form-signup {
+        max-width: 400px;
+        margin: auto;
+        padding: 1em;
+        border: 1px solid #ccc;
+        border-radius: 1em;
+    }
+
+    .form-group {
+        margin-bottom: 1em;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 0.5em;
+        margin-top: 0.5em;
+    }
+
+    .btn-primary {
+        display: block;
+        width: 100%;
+        padding: 0.5em;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 0.25em;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .text-danger {
+        color: red;
+    }
+
+    .alert-danger {
+        margin-top: 1em;
+    }
+</style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

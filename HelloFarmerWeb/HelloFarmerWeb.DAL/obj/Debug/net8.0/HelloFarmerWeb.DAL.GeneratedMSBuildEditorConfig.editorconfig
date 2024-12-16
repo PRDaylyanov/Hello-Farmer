@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HelloFarmerWeb.DAL
-build_property.ProjectDir = E:\Projects\Hello Farmer\Hello-Farmer\HelloFarmerWeb\HelloFarmerWeb.DAL\
+build_property.ProjectDir = E:\Projects\HelloFarmerWeb\HelloFarmerWeb.DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
