@@ -66,18 +66,28 @@ public class InventorySystem : MonoBehaviour
             isOpen = false;
         }
     }
-    
+
     //Add item to inventory
     public void AddToInventory(string itemName)
     {
         addedSlot = FindEmptySlot();
 
-        itemToAdd = (GameObject)Instantiate(Resources.Load<GameObject>(itemName), addedSlot.transform.position, addedSlot.transform.rotation);
-        itemToAdd.transform.SetParent(addedSlot.transform);
+        if (addedSlot != null)
+        {
+            itemToAdd = (GameObject)Instantiate(Resources.Load<GameObject>(itemName), addedSlot.transform.position, addedSlot.transform.rotation);
+            itemToAdd.transform.SetParent(addedSlot.transform);
 
-        slotedItems.Add(itemToAdd);
-
+            // Add only item name to itemNames
+            itemNames.Add(itemName);
+            Debug.Log($"{itemName} added to inventory.");
+        }
+        else
+        {
+            Debug.LogError("No empty slots available!");
+        }
     }
+
+
 
     // Finds the first empty slot
     private GameObject FindEmptySlot()
@@ -89,8 +99,7 @@ public class InventorySystem : MonoBehaviour
                 return slot;
             }
         }
-
-        return new GameObject();
+        return null; // No empty slots found
     }
 
     // Check to see if inventory is full

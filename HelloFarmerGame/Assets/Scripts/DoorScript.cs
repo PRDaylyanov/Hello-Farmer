@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class DoorScript : MonoBehaviour
@@ -34,17 +35,28 @@ public class DoorScript : MonoBehaviour
 
     private bool HasRequiredItem()
     {
-        // Check the inventory for the required item
         if (InventorySystem.Instance != null)
         {
-            return InventorySystem.Instance.itemNames.Contains(requiredItem);
+            Debug.Log($"Checking for required item: {requiredItem}");
+            Debug.Log($"Current inventory: {string.Join(", ", InventorySystem.Instance.itemNames)}");
+
+            foreach (var item in InventorySystem.Instance.itemNames)
+            {
+                if (string.Equals(item, requiredItem, StringComparison.OrdinalIgnoreCase))
+                {
+                    Debug.Log($"Found required item: {item}");
+                    return true;
+                }
+            }
         }
         else
         {
             Debug.LogError("InventorySystem Instance is not found!");
-            return false;
         }
+        Debug.Log("Required item not found.");
+        return false;
     }
+
 
     private void OpenDoor()
     {

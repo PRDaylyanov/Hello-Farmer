@@ -10,21 +10,21 @@ public class InteractableObject : MonoBehaviour
     {
         return ItemName;
     }
-    
+
     void Update()
     {
-        // Check to see if the mouse is clicked and on the item directly
         if (Input.GetKeyDown(KeyCode.E) && playerInRange && SelectionManager.Instance.onTarget)
         {
             if (!InventorySystem.Instance.CheckIfFull())
             {
+                Debug.Log($"Adding {ItemName} to inventory.");
                 InventorySystem.Instance.AddToInventory(ItemName);
 
                 Destroy(gameObject);
             }
             else
             {
-                Debug.Log("Full");
+                Debug.Log("Inventory is full!");
             }
         }
     }
